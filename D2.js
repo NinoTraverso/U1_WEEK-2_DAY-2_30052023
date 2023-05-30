@@ -101,7 +101,7 @@ if (totalShoppingCart < 50) {
   Modifica la risposta precedente includendo questa nuova promozione nell'algoritmo, determinando come prima se le spedizioni sono gratuite oppure no e e calcolando il totale.
 */
 
-/* RISPOSTA 7
+/* RISPOSTA 6
 
 let totalShoppingCart = 20
 const shipppingCost = 10;
